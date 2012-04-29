@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">On some custom rom large apps won\'t download from the android market!\n\nThis application runs a script to fix the issue, moving market cache to sdcard (internal for Samsung devices).\n\nATTENTION! I\'ll not take any responsibility for any problems or damages you may encounter with using this fix: run it at your risk!\n\nNOTE: when you connect to a computer to transfer file, market download will fail! Disconnect to install applications!</string>
+    <string name="app_name">Market Large Apps Download Fix</string>
+    <string name="apply">Apply</string>
+    <string name="revert">Revert</string>
+	<string name="exit_confirm_title">Confirm Exit</string>
+	<string name="exit_confirm_message">Are you sure you want to exit?</string>
+	<string name="exit">Exit</string>
+</resources>
